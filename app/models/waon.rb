@@ -1,0 +1,2 @@
+class Waon < ApplicationRecord
+end
