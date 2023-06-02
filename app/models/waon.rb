@@ -1,2 +1,0 @@
-class Waon < ApplicationRecord
-end
