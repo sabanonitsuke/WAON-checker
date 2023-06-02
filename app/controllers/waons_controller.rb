@@ -1,0 +1,2 @@
+class WaonsController < ApplicationController
+end
